@@ -24,3 +24,41 @@ This repository is a living testament to your deep learning journey, containing 
   - Mini-Batch Gradient Descent: Discover how mini-batch SGD improves efficiency by optimizing over smaller batches of data.
 
   - Optimization Techniques: Experiment with various optimization algorithms like momentum, Adam, and RMSprop, analyzing their impact on convergence and performance.
+
+
+
+# Natural Language Processing:
+
+  - Skip-gram: Explore the word embedding technique called skip-gram, capturing semantic relationships between words.
+
+# Computer Vision:
+
+  - LeNet: Implement the pioneering LeNet architecture for image classification, a foundational model in Deep Learning for vision tasks.
+
+  - ResNet: Build and understand ResNet, a deep convolutional neural network architecture that tackles the vanishing gradient problem.
+
+  - VGG16: Train and analyze the VGG16 architecture, a deep convolutional network famous for its superior performance on image classification tasks.
+
+# Advanced Architectures:
+
+  - Attention Neural Network: Implement an attention-based neural network, understanding its ability to focus on relevant parts of the input sequence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
