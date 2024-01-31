@@ -17,3 +17,10 @@ This repository is a living testament to your deep learning journey, containing 
    tackling the challenges of one-hot encoding and softmax activation.
 
 
+# Optimization Techniques:
+  - Linear Regression with SGD: Implement linear regression using Stochastic Gradient Descent (SGD),
+    understanding the iterative learning process.
+    
+  - Mini-Batch Gradient Descent: Discover how mini-batch SGD improves efficiency by optimizing over smaller batches of data.
+
+  - Optimization Techniques: Experiment with various optimization algorithms like momentum, Adam, and RMSprop, analyzing their impact on convergence and performance.
